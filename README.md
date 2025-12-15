@@ -54,3 +54,5 @@ Interpreted attribute significance and competitive maps.
 Developed recommendations based on analytic findings.
 
 Produced the full analytical and strategic report.
+
+[Brand Positioning Analytics Case Study.pdf](https://github.com/user-attachments/files/24156112/Brand.Positioning.Analytics.Case.Study.pdf)
